@@ -7,11 +7,10 @@
 ## 👨‍💻 About Me
 
 - 🔭 I'm currently working on web development projects
-- 🌱 I'm learning advanced JavaScript frameworks and cloud technologies
+- 🌱 I'm learning advanced JavaScript frameworks, Laravel, REST API's and cloud technologies
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about web development and software architecture
 - 📫 Reach me at: Instagram @langveal
-- ⚡ Fun fact: [Add an interesting fact about yourself]
 
 ## 🛠️ Tech Stack
 
