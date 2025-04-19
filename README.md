@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm @azeasz
 
-<!--
-**azeasz/azeasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on web development projects
+- 🌱 I'm learning advanced JavaScript frameworks and cloud technologies
+- 👯 I'm looking to collaborate on open source projects
+- 💬 Ask me about web development and software architecture
+- 📫 Reach me at: [Your Email or Social Media]
+- ⚡ Fun fact: [Add an interesting fact about yourself]
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azeasz&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</div>
+
+---
+⭐️ From [azeasz](https://github.com/azeasz)
