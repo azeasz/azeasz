@@ -10,7 +10,7 @@
 - 🌱 I'm learning advanced JavaScript frameworks, Laravel, REST API's and any Machine Learning
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about web development and software architecture
-- 📫 Reach me at: Instagram @langveal
+- 📫 Reach me at: Instagram <a href = "https://www.instagram.com/langveal/"> @langveal
 - 💻 <a href = "https://galangadif.netlify.app"> My Portfolio
 
 ## 🛠️ Tech Stack
