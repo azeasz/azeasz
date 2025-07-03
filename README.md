@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @azeasz
+# 👋 Hi, I'm Galang Adif aka @azeasz
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
