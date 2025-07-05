@@ -22,9 +22,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azeasz&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</div>
+
 
 ---
 ⭐️ From [azeasz](https://github.com/azeasz)
